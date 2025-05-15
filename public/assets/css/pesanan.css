@@ -1,0 +1,172 @@
+body {
+    background-color: #f8f9fa;
+    padding-top: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h3 {
+    font-weight: bold;
+    color: #0d6efd; /* Biru Bootstrap */
+}
+
+.card {
+    border-radius: 12px;
+    background-color: #ffffff;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+}
+
+.list-group-item {
+    border: none;
+    padding: 12px 15px;
+    font-size: 16px;
+}
+
+.list-group-item strong {
+    width: 120px;
+    display: inline-block;
+}
+
+form .form-control {
+    border-radius: 8px;
+    padding: 10px;
+}
+
+form button {
+    padding: 10px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.btn-success {
+    background-color: #198754;
+    border: none;
+}
+
+.btn-success:hover {
+    background-color: #157347;
+}
+
+body {
+    background-color: #f8f9fa;
+}
+
+h2 {
+    font-weight: bold;
+    color: #343a40;
+}
+
+.table {
+    background-color: #fff;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.table th, .table td {
+    vertical-align: middle;
+}
+
+.btn {
+    border-radius: 20px;
+}
+
+.alert {
+    border-radius: 15px;
+}
+
+.badge {
+    font-size: 90%;
+}
+
+.btn-success {
+    background-color: #28a745;
+    border-color: #28a745;
+    transition: all 0.3s ease;
+}
+
+.btn-success:hover {
+    background-color: #218838;
+    border-color: #1e7e34;
+}
+
+body {
+    background-color: #f1f5f9;
+}
+
+.card {
+    border-radius: 20px;
+}
+
+h3 {
+    font-weight: bold;
+    color: #343a40;
+}
+
+ul.list-group {
+    border-radius: 10px;
+}
+
+.list-group-item {
+    border: none;
+    background: #f8f9fa;
+    font-size: 1.1rem;
+}
+
+.btn-success {
+    transition: all 0.3s ease;
+}
+
+.btn-success:hover {
+    background-color: #218838;
+    transform: scale(1.05);
+}
+
+body {
+    background-color: #f1f5f9;
+}
+
+.card {
+    border-radius: 20px;
+    animation: fadeIn 0.8s ease-in;
+}
+
+h3 {
+    font-weight: bold;
+    color: #343a40;
+}
+
+.table {
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.table thead th {
+    background-color: #d4edda;
+}
+
+.btn-danger {
+    transition: all 0.3s ease;
+}
+
+.btn-danger:hover {
+    background-color: #c82333;
+    transform: scale(1.05);
+}
+
+.btn-success {
+    transition: all 0.3s ease;
+}
+
+.btn-success:hover {
+    background-color: #218838;
+    transform: scale(1.05);
+}
+
+input.form-control {
+    border-radius: 10px;
+}
+
+/* Fade In */
+@keyframes fadeIn {
+    0% { opacity: 0; transform: translateY(20px); }
+    100% { opacity: 1; transform: translateY(0); }
+}
